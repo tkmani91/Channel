@@ -40,8 +40,11 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/1705-audio_113352_eng=11
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/ZzYj5Mjk/SOMOY-TV.png",Somoy Tv
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/KckZsZsG/News24.png",News 24
-https://youtu.be/2YoZvuWAsm8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/1ttWqLJG/Independent-TV.png",Independent TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/pr45Tq6T/DBC-NEWS.png",DBC News
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI1IDY6MTA6MzggQU0maGFzaF92YWx1ZT1DeE5hemozRVVhWlc1enNsd0k5SHZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU%3D
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/hnYzKwc/ATN-NEWS.png",ATN News 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/j9ZwHy9Z/Willow-HD.png",WILLOW HD
+https://tv.bdixtv24.co/sports/m3u8.php/willowusa.m3u8
