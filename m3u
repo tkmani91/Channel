@@ -35,7 +35,7 @@ https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f57
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/xRHdFFv/Ekattor-ATV.jpg",Ekattor TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=442000.m3u8
+http://103.89.248.30:8082/71-TV/tracks-v1/index.fmp4.m3u8?token=f2e06a961616c9f4a0035e1e8095dc176348e353-c7c14037601279c8aa7cc9f7c49ffc07-1745860762-1745849962
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/ZzYj5Mjk/SOMOY-TV.png",Somoy Tv
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
