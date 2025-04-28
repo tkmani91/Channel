@@ -60,3 +60,15 @@ http://103.89.248.22:8082/NEWS-24/tracks-v1/index.fmp4.m3u8?token=a76916e262d0e7
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/gazi.jpg",GAZI TV
 http://103.89.248.22:8082/GAZI-TV/tracks-v1/index.fmp4.m3u8?token=700b56ef607e9236a68893b3889aa864c4d6e979-b88e7ecd6db59017484d48a8cb5ff5e7-1745861658-1745850858
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="BANGLA" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/jalshamovies.jpg",JALSHA MOVIES 
+http://103.89.248.22:8082/JALSHA-MOVIES/tracks-v1/index.fmp4.m3u8?token=ebe00fd734d03394ce622491fed378f5d28ac01f-a13a40c57380ac097a1a22bff7188a2d-1745863705-1745852905
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="BANGLA" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/starjalsha.jpg",STAR JALSHA
+http://103.89.248.22:8082/Star_jalsha/tracks-v1/index.fmp4.m3u8?token=460fa30ebbf75e3a8a6a2e42a11e494c1668d50e-da3ee5ffe30d9c735b231d036de887fd-1745863734-174585293405
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="BANGLA" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglahd.jpg",ZEE BANGLA
+http://103.89.248.26:8082/zee-bangla/tracks-v1/index.fmp4.m3u8?token=1765aa36fcecfe6d0cb64285f8ea96884ad3f468-5091a54b233dfd28434062b9a8e90e75-1745863854-1745853054
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="BANGLA" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/akashaath.jpg",AKASH AATH
+http://103.89.248.30:8082/Akash-aat/tracks-v1/index.fmp4.m3u8?token=3ac5526cc13ed5ef39cfd446b9d3e9e0b390afb6-60636ce7d0292e5ef982f73f00aaa264-1745864311-1745853511
