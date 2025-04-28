@@ -25,38 +25,38 @@ http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Khakee%20The%20Bengal%20Chapt
 http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Khakee%20The%20Bengal%20Chapter%20%28TV%20Series%202025-%29/Season%201%201080p/Khakee.The.Bengal.Chapter.S01E07.Lanka.Dahan.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-mkvCinemas.mkv
 
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/23jjL5F9/ABP.png",Abp ananda
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/23jjL5F9/ABP.png",Abp ananda
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master_1280.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/RTLyj9Fn/Republic-Bangla.jpg",R BANGLA
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/RTLyj9Fn/Republic-Bangla.jpg",R BANGLA
 https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/dcd14105-09e8-47de-9a98-84658326a834/3.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/9mr3QB1m/TV9-Bangla.png",TV9 BANGLA
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/9mr3QB1m/TV9-Bangla.png",TV9 BANGLA
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/xRHdFFv/Ekattor-ATV.jpg",Ekattor TV
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/xRHdFFv/Ekattor-ATV.jpg",Ekattor TV
 http://103.89.248.30:8082/71-TV/tracks-v1/index.fmp4.m3u8?token=f2e06a961616c9f4a0035e1e8095dc176348e353-c7c14037601279c8aa7cc9f7c49ffc07-1745860762-1745849962
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/ZzYj5Mjk/SOMOY-TV.png",Somoy Tv
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/ZzYj5Mjk/SOMOY-TV.png",Somoy Tv
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/1ttWqLJG/Independent-TV.png",Independent TV
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/1ttWqLJG/Independent-TV.png",Independent TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/hnYzKwc/ATN-NEWS.png",ATN News 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/hnYzKwc/ATN-NEWS.png",ATN News 
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="https://i.ibb.co.com/j9ZwHy9Z/Willow-HD.png",WILLOW HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS TV" tvg-logo="https://i.ibb.co.com/j9ZwHy9Z/Willow-HD.png",WILLOW HD
 https://tv.bdixtv24.co/sports/m3u8.php/willowusa.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/dbc.jpg",DBC NEWS
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/dbc.jpg",DBC NEWS
 http://103.89.248.22:8082/DBC-NEWS/tracks-v1/index.fmp4.m3u8?token=08310f6bc11c87b80b576f33bd9137b48847a650-9609ce5ab0456b22cdcdb909aade607a-1745861238-1745850438
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/channel24.jpg",CHANNEL 24
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/channel24.jpg",CHANNEL 24
 http://103.89.248.22:8082/Chanal24/tracks-v1/index.fmp4.m3u8?token=b1a6831dcd0734a3370b85cca0a4151a8f1be4ed-fbf5d9d9f761ed84fed6fd0ef862f6e2-1745861479-1745850679
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/news24.jpg",NEWS 24
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/news24.jpg",NEWS 24
 http://103.89.248.22:8082/NEWS-24/tracks-v1/index.fmp4.m3u8?token=a76916e262d0e733fb9b8214f2ee2c0cbbca2910-e80aa229cc4098d65e938f677739061f-1745861547-1745850747
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/gazi.jpg",GAZI TV
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/gazi.jpg",GAZI TV
 http://103.89.248.22:8082/GAZI-TV/tracks-v1/index.fmp4.m3u8?token=700b56ef607e9236a68893b3889aa864c4d6e979-b88e7ecd6db59017484d48a8cb5ff5e7-1745861658-1745850858
