@@ -55,6 +55,12 @@ http://103.89.248.22:8082/DBC-NEWS/tracks-v1/index.fmp4.m3u8?token=08310f6bc11c8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/channel24.jpg",CHANNEL 24
 http://103.89.248.22:8082/Chanal24/tracks-v1/index.fmp4.m3u8?token=b1a6831dcd0734a3370b85cca0a4151a8f1be4ed-fbf5d9d9f761ed84fed6fd0ef862f6e2-1745861479-1745850679
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/channel24.jpg",CHANNEL 24
+http://103.89.248.22:8082/Chanal24/tracks-v1/index.fmp4.m3u8?token=b1a6831dcd0734a3370b85cca0a4151a8f1be4ed-fbf5d9d9f761ed84fed6fd0ef862f6e2-1745861479-1745850679
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/channel24.jpg",CHANNEL 24
+http://103.89.248.22:8082/Chanal24/tracks-v1/index.fmp4.m3u8?token=b1a6831dcd0734a3370b85cca0a4151a8f1be4ed-fbf5d9d9f761ed84fed6fd0ef862f6e2-1745861479-1745850679
+
 EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/news24.jpg",NEWS 24 http://103.89.248.22:8082/NEWS-24/tracks-v1/index.fmp4.m3u8?token=a76916e262d0e733fb9b8214f2ee2c0cbbca2910-e80aa229cc4098d65e938f677739061f-1745861547-1745850747
 
 EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE TV" tvg-logo="http://iptvidn.com/assets/images/gazi.jpg",GAZI TVhttp://103.89.248.22:8082/GAZI-TV/tracks-v1/index.fmp4.m3u8?token=700b56ef607e9236a68893b3889aa864c4d6e979-b88e7ecd6db59017484d48a8cb5ff5e7-1745861658-1745850858
