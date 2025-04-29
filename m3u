@@ -46,8 +46,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704-audio_113342_eng=11
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/hnYzKwc/ATN-NEWS.png",ATN News 
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS TV" tvg-logo="https://i.ibb.co.com/j9ZwHy9Z/Willow-HD.png",WILLOW HD
-https://tv.bdixtv24.co/sports/m3u8.php/willowusa.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS TV" tvg-logo="http://iptvidn.com/assets/images/tsports.jpg",LIVE SPORTS
+http://103.89.248.30:8082/1LIVE/index.fmp4.m3u8?token=8ad7684647e7942b829ddba502a9a31ebafd702d-ef2790657e14875278df637d7b7d8bef-1745918397-1745907597
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/dbc.jpg",DBC NEWS
 http://103.89.248.30:8082/DBC-NEWS/index.fmp4.m3u8?token=395ebd6d231555f5cec87b9196d3a40ab926a890-dcd8d81ed60c642336a1f630abdf6389-1745912762-1745901962
