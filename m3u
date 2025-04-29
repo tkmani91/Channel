@@ -97,7 +97,7 @@ http://103.89.248.30:8082/SONY-YAY/index.fmp4.m3u8?token=4db6c7705f696043fb27a90
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="http://iptvidn.com/assets/images/enterr10.jpg",ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="https://i.ibb.co.com/VY8869H7/Sony-Aath-new.png",SONY AATH
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="https://i.ibb.co.com/k2WMK4WH/Sony-Aath-new.jpg",SONY AATH
 https://tv.bdixtv24.co/toffee/live.php?id=7e00fee81848&e=.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/9xm.jpg",9XM
