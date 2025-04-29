@@ -38,7 +38,7 @@ https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f57
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/xRHdFFv/Ekattor-ATV.jpg",Ekattor TV
-http://103.89.248.26:8082/71-TV/index.fmp4.m3u8?token=0b7841538cf107529d57fdca8e85488333789af0-a05f6026015ac31a7f617bc3561c248f-1745912469-1745901669
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/ZzYj5Mjk/SOMOY-TV.png",Somoy Tv
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
@@ -53,10 +53,10 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=11
 http://103.89.248.30:8082/1LIVE/index.fmp4.m3u8?token=8ad7684647e7942b829ddba502a9a31ebafd702d-ef2790657e14875278df637d7b7d8bef-1745918397-1745907597
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/dbc.jpg",DBC NEWS
-http://103.89.248.30:8082/DBC-NEWS/index.fmp4.m3u8?token=395ebd6d231555f5cec87b9196d3a40ab926a890-dcd8d81ed60c642336a1f630abdf6389-1745912762-1745901962
+https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=4568489a897f0fa05ca80323f293d34a73a4c63a-5b47670517b22611d3bacb6ca62a8a02-1745937010-1745936110
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/channel24.jpg",CHANNEL 24
-http://103.89.248.22:8082/Chanal24/index.fmp4.m3u8?token=c5df7688e04fe0f89b479100707a28d0ac6884a8-546089e16aa2287b68e432d54aafa12b-1745911792-1745900992
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/news24.jpg",NEWS 24
 http://103.89.248.26:8082/NEWS-24/index.fmp4.m3u8?token=ba46413304d19c1145566b59df679ec57510016b-d603a9cfdfe9701b71ed2bf87a0f90e8-1745912019-1745901219
