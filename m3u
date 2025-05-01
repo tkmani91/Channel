@@ -53,7 +53,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=11
 http://103.89.248.30:8082/1LIVE/index.fmp4.m3u8?token=8ad7684647e7942b829ddba502a9a31ebafd702d-ef2790657e14875278df637d7b7d8bef-1745918397-1745907597
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/dbc.jpg",DBC NEWS
-https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=4568489a897f0fa05ca80323f293d34a73a4c63a-5b47670517b22611d3bacb6ca62a8a02-1745937010-1745936110
+https://tv.bdixtv24.com/ayna/watch.php?id=0875f2c8-2043-499b-9472-2872412a6340&format=.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/channel24.jpg",CHANNEL 24
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
@@ -75,6 +75,12 @@ http://103.89.248.26:8082/zee-bangla/index.fmp4.m3u8?token=fe231ddf46460e6489a3d
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="http://iptvidn.com/assets/images/akashaath.jpg",AKASH AATH
 http://103.89.248.22:8082/Akash-aat/index.fmp4.m3u8?token=23bae8e7e565fb45bd012a549e5e37e47e10eec7-41742242ddfe4714190a269b92729d6f-1745911427-1745900627
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="https://i.ibb.co.com/jPSXTwNT/BTV.jpg",BTV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="https://i.ibb.co.com/nN9XVCt4/DEEPTO.jpg",DEEPTO TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/master.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/duronto.jpg",DURONTO TV
 http://103.89.248.26:8082/DURONTO-TV/index.fmp4.m3u8?token=188cab01075c012886c44c8ccd05b40cd68fe73b-4880c1c19ee0ddedada6e80172d48d7d-1745911724-1745900924
