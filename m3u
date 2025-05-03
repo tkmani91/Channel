@@ -62,16 +62,16 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703-audio_113332_eng=11
 http://103.89.248.26:8082/NEWS-24/index.fmp4.m3u8?token=ba46413304d19c1145566b59df679ec57510016b-d603a9cfdfe9701b71ed2bf87a0f90e8-1745912019-1745901219
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/gazi.jpg",GAZI TV
-http://103.89.248.22:8082/GAZI-TV/index.fmp4.m3u8?token=83de2c4788b985b7a91695b576f181bc20d15cc8-2e19e67c585522bd3b2dcb602f11b7f4-1745911167-1745900367
+http://103.89.248.30:8082/GAZI-TV/index.fmp4.m3u8?token=7b116eec13fcc389fe4e2f7e0d8093ae056ba3cd-b15d9da45731986dd38fc10667e14aa0-1746289002-1746278202
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="http://iptvidn.com/assets/images/jalshamovies.jpg",JALSHA MOVIES 
-http://103.89.248.26:8082/JALSHA-MOVIES/index.fmp4.m3u8?token=2bb8374a4b329574aa1626c5911d0cffbaf97397-c65493b0c716398489193b4f82879d09-1745910437-1745899637
+http://103.89.248.30:8082/JALSHA-MOVIES/index.fmp4.m3u8?token=f8952c18b294287ea488712cd9dbb8d7c3c1678a-8c55c9e92c48e7426e1309e9ecff75cd-1746289109-1746278309
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="http://iptvidn.com/assets/images/starjalsha.jpg",STAR JALSHA
 http://103.89.248.26:8082/Star_jalsha/index.fmp4.m3u8?token=25543a9143291fe89f6acc46437a34edd83a704d-f481d38102268d7b6d4426aea2510a5c-1745910436-1745899636
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="http://iptvidn.com/assets/images/zeebanglahd.jpg",ZEE BANGLA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+http://103.89.248.26:8082/zee-bangla/index.fmp4.m3u8?token=0bf77e3f126bfeecb6fefe10c087e3ab9a380b32-d51a7950268cee6c040912452be50a7a-1746289026-1746278226
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="http://iptvidn.com/assets/images/akashaath.jpg",AKASH AATH
 http://103.89.248.22:8082/Akash-aat/index.fmp4.m3u8?token=23bae8e7e565fb45bd012a549e5e37e47e10eec7-41742242ddfe4714190a269b92729d6f-1745911427-1745900627
@@ -83,7 +83,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/master.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/duronto.jpg",DURONTO TV
-http://103.89.248.26:8082/DURONTO-TV/index.fmp4.m3u8?token=188cab01075c012886c44c8ccd05b40cd68fe73b-4880c1c19ee0ddedada6e80172d48d7d-1745911724-1745900924
+http://103.89.248.26:8082/DURONTO-TV/index.fmp4.m3u8?token=169d3d8c0a1b6396a5d6662df4f14aab476d41e6-076a30b0b80dc855b79f59c6891cb7b8-1746289170-1746278370
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/maasranga.jpg",MAASRANGA TV
 http://103.89.248.30:8082/MAASRANGA-TV/index.fmp4.m3u8?token=f0002c8ad590b34f3270899a99ba274e407e1381-499e8999b580fb6eac33c620473d84bf-1745911958-1745901158
