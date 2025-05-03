@@ -70,7 +70,7 @@ http://103.89.248.30:8082/GAZI-TV/index.fmp4.m3u8?token=7b116eec13fcc389fe4e2f7e
 http://103.89.248.30:8082/JALSHA-MOVIES/index.fmp4.m3u8?token=f8952c18b294287ea488712cd9dbb8d7c3c1678a-8c55c9e92c48e7426e1309e9ecff75cd-1746289109-1746278309
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="http://iptvidn.com/assets/images/starjalsha.jpg",STAR JALSHA
-http://103.89.248.26:8082/Star_jalsha/index.fmp4.m3u8?token=25543a9143291fe89f6acc46437a34edd83a704d-f481d38102268d7b6d4426aea2510a5c-1745910436-1745899636
+https://github.com/rahul979854/Channels/raw/main/StarJalshaHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="http://iptvidn.com/assets/images/zeebanglahd.jpg",ZEE BANGLA
 http://103.89.248.26:8082/zee-bangla/index.fmp4.m3u8?token=0bf77e3f126bfeecb6fefe10c087e3ab9a380b32-d51a7950268cee6c040912452be50a7a-1746289026-1746278226
