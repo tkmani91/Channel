@@ -64,6 +64,8 @@ http://103.89.248.26:8082/NEWS-24/index.fmp4.m3u8?token=ba46413304d19c1145566b59
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/gazi.jpg",GAZI TV
 http://103.89.248.30:8082/GAZI-TV/index.fmp4.m3u8?token=7b116eec13fcc389fe4e2f7e0d8093ae056ba3cd-b15d9da45731986dd38fc10667e14aa0-1746289002-1746278202
 
+
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="http://iptvidn.com/assets/images/jalshamovies.jpg",JALSHA MOVIES 
 http://103.89.248.30:8082/JALSHA-MOVIES/index.fmp4.m3u8?token=f8952c18b294287ea488712cd9dbb8d7c3c1678a-8c55c9e92c48e7426e1309e9ecff75cd-1746289109-1746278309
 
@@ -81,6 +83,13 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="https://i.ibb.co.com/nN9XVCt4/DEEPTO.jpg",DEEPTO TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/master.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="http://iptvidn.com/assets/images/atnbangla.jpg",ATN BANGLA
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/master.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",Banglavision
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
+
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/duronto.jpg",DURONTO TV
 http://103.89.248.26:8082/DURONTO-TV/index.fmp4.m3u8?token=169d3d8c0a1b6396a5d6662df4f14aab476d41e6-076a30b0b80dc855b79f59c6891cb7b8-1746289170-1746278370
