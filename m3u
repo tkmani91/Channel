@@ -93,7 +93,7 @@ https://github.com/rahul979854/Channels/raw/main/JalshaMoviesHd.m3u8
 http://103.89.248.26:8082/Star_jalsha/index.fmp4.m3u8?token=c6dacf2e2be4820066ed09d718754d2d76d12c5a-b711316811d1532539e2e5a49942517c-1746439628-1746428828
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglahd.jpg",ZEE BANGLA
-http://103.89.248.26:8082/zee-bangla/index.fmp4.m3u8?token=0bf77e3f126bfeecb6fefe10c087e3ab9a380b32-d51a7950268cee6c040912452be50a7a-1746289026-1746278226
+https://github.com/rahul979854/Channels/raw/main/ZeeBanglaHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/enterr10.jpg",ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
