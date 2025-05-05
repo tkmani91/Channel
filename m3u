@@ -110,6 +110,9 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/master.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.ibb.co.com/1YgLr6rh/Banglavision.jpg",Banglavision
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.ibb.co.com/23wy52bR/R-TV.jpg",R TV
+https://tv.bdixtv24.com/ayna/watch.php?id=70e97db9-5a9e-4642-874e-af3d30ba9925&format=.m3u8
+
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/duronto.jpg",DURONTO TV
 http://103.89.248.26:8082/DURONTO-TV/index.fmp4.m3u8?token=169d3d8c0a1b6396a5d6662df4f14aab476d41e6-076a30b0b80dc855b79f59c6891cb7b8-1746289170-1746278370
@@ -160,7 +163,4 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://github.com/rahul979854/Channels/raw/main/ColorHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.ibb.co.com/Z6mRgNkg/StarPlus.jpg",Star Plus Hd
-https://github.com/rahul979854/Channels/raw/main/StarPlusHd.m3u8
-
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="http://iptvidn.com/assets/images/9xm.jpg",Star Plus Hd
 https://github.com/rahul979854/Channels/raw/main/StarPlusHd.m3u8
