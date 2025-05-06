@@ -26,7 +26,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704-audio_113342_eng=11
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/JF5FgTyP/atnnews.jpg",ATN News 
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="http://iptvidn.com/assets/images/tsports.jpg",LIVE SPORTS
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="http://iptvidn.com/assets/images/tsports.jpg",T SPORTS
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/PzwXwbLY/starsports1.jpg",Star Sport 1 Hd
@@ -56,9 +56,11 @@ https://tv.bdixtv24.com/ayna/watch.php?id=0875f2c8-2043-499b-9472-2872412a6340&f
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/channel24.jpg",CHANNEL 24
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 
-
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/jalshamovies.jpg",JALSHA MOVIES 
 https://github.com/rahul979854/Channels/raw/main/JalshaMoviesHd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglacinema.jpg",Zee Bangla Cinema
+http://103.89.248.22:8082/ZEE-BANGLA-CINEMA/index.fmp4.m3u8?token=2518b65199f6da998c0a3f58c1c0791ee5b6f8ee-eaf60c76dd53c2d1c996a4316e0f4b9c-1746544296-1746533496
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/starjalsha.jpg",STAR JALSHA
 http://38.96.178.201/live/STARJALSHA/index.m3u8
@@ -140,9 +142,9 @@ http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="http://iptvidn.com/assets/images/animalplanetnew.jpg",ANIMAL PLANET HD
 https://github.com/rahul979854/Channels/raw/main/AnimalsPlanetHd.m3u8
 
-
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="http://iptvidn.com/assets/images/discoveryhd.jpg",DISCOVERY HD
 http://103.89.248.30:8082/DISCOVERY-HD/index.fmp4.m3u8?token=b31f3ee6a273ec1be723d01419211dbc7d4f2091-85adde3d1084df1c1c13c42003167a24-1746542787-1746531987
+
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/d01D83Yz/STAR-Movies.jpg",Star Movies Hd
 https://github.com/rahul979854/Channels/raw/main/StarMoviesHd.m3u8
@@ -169,6 +171,16 @@ https://github.com/rahul979854/Channels/raw/main/AndPrideHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/5hyWQmCJ/Flix-HD.jpg",& Flix Hd
 https://github.com/rahul979854/Channels/raw/main/AndFlixHd.m3u8
+
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/zee%20cinema.jpeg",Zee Cinema HD
+http://103.89.248.26:8082/Zee-Cinema-HD/index.fmp4.m3u8?token=4eb4f4a394fabe7e69c390174b324ff64e67e671-13c7c1201da31c438dcc36e731af5d94-1746544195-1746533395
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/b4umovies.jpg",B4U MOVIES
+http://103.89.248.22:8082/B4U-MOVIES/index.fmp4.m3u8?token=836c5ab2d330190db91accc2fb0d111f8e28db05-32398603e34b1adb0f84a2922f991c8c-1746544178-1746533378
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonymaxhd.jpg",SONY MAX
+http://103.89.248.26:8082/SONY-MAX/index.fmp4.m3u8?token=3919e3112a24c7bfedcd0315bfcb46c6a7ba1258-1f73acc161edf55a2984838a168b36db-1746544257-1746533457
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/9xm.jpg",9XM
