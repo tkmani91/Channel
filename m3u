@@ -189,7 +189,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/b4umusic.jpg",B4U MUSIC
 http://103.89.248.22:8082/B4U-MUSIC/index.fmp4.m3u8?token=b16480724b2537f58c6cb6decab196abe662e3e5-66e2ddc61b449434654467719bd509be-1746542611-1746531811
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg",SANGEET BANGLA
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/Sangeetbangla.jpg",SANGEET BANGLA
 http://103.89.248.30:8082/SANGEET-BANGLA/index.fmp4.m3u8?token=eaace3d3f0af7c05fc50e623c2bfbc31aabb4d30-3bdc971a5932da14f04a9e4d7d72391d-1746542903-1746532103
 
 
