@@ -180,8 +180,10 @@ http://103.89.248.26:8082/Zee-Cinema-HD/index.fmp4.m3u8?token=4eb4f4a394fabe7e69
 http://103.89.248.22:8082/B4U-MOVIES/index.fmp4.m3u8?token=836c5ab2d330190db91accc2fb0d111f8e28db05-32398603e34b1adb0f84a2922f991c8c-1746544178-1746533378
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonymaxhd.jpg",SONY MAX
-http://103.89.248.26:8082/SONY-MAX/index.fmp4.m3u8?token=3919e3112a24c7bfedcd0315bfcb46c6a7ba1258-1f73acc161edf55a2984838a168b36db-1746544257-1746533457
+http://kst.moonplex.net:8080/CH1/index.m3u8
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonymaxhd.jpg",SONY PIX
+http://kst.moonplex.net:8080/CH8/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/9xm.jpg",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a731c680-6a62-4174-bc98-186fe654724a/0.m3u8
