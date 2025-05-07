@@ -65,6 +65,7 @@ http://103.89.248.22:8082/ZEE-BANGLA-CINEMA/index.fmp4.m3u8?token=2518b65199f6da
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/starjalsha.jpg",STAR JALSHA
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglahd.jpg",ZEE BANGLA
 https://github.com/rahul979854/Channels/raw/main/ZeeBanglaHd.m3u8
 #http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
