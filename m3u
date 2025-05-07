@@ -110,9 +110,6 @@ http://kst.moonplex.net:8080/CH12/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/maasranga.jpg",MAASRANGA TV
 http://103.89.248.22:8082/MAASRANGA-TV/index.fmp4.m3u8?token=fb96dd2a90b545cc9cf5b5027fa906524c4476bd-d14db93911d4d50bef9642ec7b550f59-1746641895-1746631095
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/rongeen.jpg",RONGEEN TV
-http://103.89.248.30:8082/RONGEEN-TV/index.fmp4.m3u8?token=d57f4b334a643f906bc79cc9cc2fe0bddc3e050e-27ee6eb5d04a59f73262a0c0dfc3dcec-1746542363-1746531563
-
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/pogo.jpg",POGO KIDS
 http://103.89.248.26:8082/POGO/index.fmp4.m3u8?token=a876f32c4db8a58ebefa46bf9ed98c2ca0b8b4f3-ae5bee2e61faefed46bba015f2eeb825-1746641908-1746631108
 
