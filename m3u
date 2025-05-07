@@ -27,7 +27,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704-audio_113342_eng=11
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="http://iptvidn.com/assets/images/tsports.jpg",T SPORTS
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+http://kst.moonplex.net:8080/CH2/index.m3u8
+#https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/PzwXwbLY/starsports1.jpg",Star Sport 1 Hd
 https://raw.githubusercontent.com/rahul979854/Channels/refs/heads/main/StarSport1Hd.m3u8
@@ -59,8 +60,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703-audio_113332_eng=11
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/jalshamovies.jpg",JALSHA MOVIES 
 https://github.com/rahul979854/Channels/raw/main/JalshaMoviesHd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglacinema.jpg",Zee Bangla Cinema
-http://103.89.248.22:8082/ZEE-BANGLA-CINEMA/index.fmp4.m3u8?token=2518b65199f6da998c0a3f58c1c0791ee5b6f8ee-eaf60c76dd53c2d1c996a4316e0f4b9c-1746544296-1746533496
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglacinema.jpg",Zee Bangla Cinema
+http://103.89.248.30:8082/ZEE-BANGLA-CINEMA/index.fmp4.m3u8?token=655072bda76f37f66f86aa2347da86a47aba5a6a-257758e1824daad1fa85ee76db9a1938-1746642099-1746631299
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/starjalsha.jpg",STAR JALSHA
 http://38.96.178.201/live/STARJALSHA/index.m3u8
@@ -104,25 +105,25 @@ http://38.96.178.201/live/GaziTV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/duronto.jpg",DURONTO TV
-http://103.89.248.22:8082/DURONTO-TV/index.fmp4.m3u8?token=79b11ccf90191abfc51bf7c69b0d66888e5e0ad1-c031c1b4c785c11ee711b5e733fe50a0-1746541985-1746531185
+http://kst.moonplex.net:8080/CH12/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/maasranga.jpg",MAASRANGA TV
-http://103.89.248.30:8082/MAASRANGA-TV/index.fmp4.m3u8?token=04b14842ac7ac7c415b2787b4bd26542824a197e-16d3e9e931cca991bda44a5fdd4ae4a0-1746542472-1746531672
+http://103.89.248.22:8082/MAASRANGA-TV/index.fmp4.m3u8?token=fb96dd2a90b545cc9cf5b5027fa906524c4476bd-d14db93911d4d50bef9642ec7b550f59-1746641895-1746631095
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/rongeen.jpg",RONGEEN TV
 http://103.89.248.30:8082/RONGEEN-TV/index.fmp4.m3u8?token=d57f4b334a643f906bc79cc9cc2fe0bddc3e050e-27ee6eb5d04a59f73262a0c0dfc3dcec-1746542363-1746531563
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/pogo.jpg",POGO KIDS
-http://103.89.248.30:8082/POGO/index.fmp4.m3u8?token=b7e9b505f301dc091a5aab5d178ea1abffcb60c9-c5ecb5986761ed1938392df3ecef515d-1746542602-1746531802
+http://103.89.248.26:8082/POGO/index.fmp4.m3u8?token=a876f32c4db8a58ebefa46bf9ed98c2ca0b8b4f3-ae5bee2e61faefed46bba015f2eeb825-1746641908-1746631108
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/cartoonnetwork.jpg",CARTOON NETWORK
-http://103.89.248.26:8082/cn/index.fmp4.m3u8?token=60273d1eab8f44b410b4bd79a8abaddd9abef944-ebf576f41e18e881d3d211f9dbde774c-1746542168-1746531368
+http://103.89.248.26:8082/cn/index.fmp4.m3u8?token=35e54dab1c577762c3081b4f859736ed5fe7cf4f-4b0c7ee2e3a0fec342eb38bbc536d83c-1746641885-1746631085
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/discoverykids.jpg",DISCOVERY KIDS
-http://103.89.248.22:8082/DISCOVERY-KIDS/index.fmp4.m3u8?token=630737f621e581649e0b159f28cd6e9f5f6ff4ec-af7cf3ec16fa2bc730c6f8054694fde3-1746542098-1746531298
+http://103.89.248.22:8082/DISCOVERY-KIDS/index.fmp4.m3u8?token=963e53688aaee6b8d3903f10fbabbd57838b3d19-b24bb9ac420b9782ecc966b9b6947d35-1746641815-1746631015
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/sonyyay.jpg",SONY YAY
-http://103.89.248.26:8082/SONY-YAY/index.fmp4.m3u8?token=6d4cd18ad31d3773bfd1b4e5bc8cdab392b36069-d4d3f5cda5b5e9ebed0757da054b30a6-1746542121-1746531321
+http://103.89.248.22:8082/SONY-YAY/index.fmp4.m3u8?token=841282c1b3dd0e683f3977399c9e67246dc3b87b-231389d7abbb76f495aa4023f1c952e4-1746641794-1746630994
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.ibb.co.com/fdbm305W/NICKELODEON.jpg",NICKELODEON
 http://143.244.60.30/NICKELODEON/index.m3u8
@@ -144,7 +145,7 @@ http://41.205.93.154/ANIMALPLANET/index.m3u8
 https://github.com/rahul979854/Channels/raw/main/AnimalsPlanetHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="http://iptvidn.com/assets/images/discoveryhd.jpg",DISCOVERY HD
-http://103.89.248.30:8082/DISCOVERY-HD/index.fmp4.m3u8?token=b31f3ee6a273ec1be723d01419211dbc7d4f2091-85adde3d1084df1c1c13c42003167a24-1746542787-1746531987
+http://kst.moonplex.net:8080/CH9/index.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/d01D83Yz/STAR-Movies.jpg",Star Movies Hd
@@ -175,15 +176,15 @@ https://github.com/rahul979854/Channels/raw/main/AndFlixHd.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/zee%20cinema.jpeg",Zee Cinema HD
-http://103.89.248.26:8082/Zee-Cinema-HD/index.fmp4.m3u8?token=4eb4f4a394fabe7e69c390174b324ff64e67e671-13c7c1201da31c438dcc36e731af5d94-1746544195-1746533395
+http://103.89.248.26:8082/Zee-Cinema-HD/index.fmp4.m3u8?token=68aae5cb3979a6495e9fabd824781e0d7961cc3a-20cd934446b6ca8d3bc727ee1662c3b8-1746641748-1746630948
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/b4umovies.jpg",B4U MOVIES
-http://103.89.248.22:8082/B4U-MOVIES/index.fmp4.m3u8?token=836c5ab2d330190db91accc2fb0d111f8e28db05-32398603e34b1adb0f84a2922f991c8c-1746544178-1746533378
+http://103.89.248.26:8082/B4U-MOVIES/index.fmp4.m3u8?token=bc07db148d421612012c37de781219b6a24cf57b-9b4061082d30a2770e091efc6e84fdbf-1746641783-1746630983
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonymaxhd.jpg",SONY MAX
 http://kst.moonplex.net:8080/CH1/index.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonymaxhd.jpg",SONY PIX
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonypix.jpg",SONY PIX
 http://kst.moonplex.net:8080/CH8/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/9xm.jpg",9XM
