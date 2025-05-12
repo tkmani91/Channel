@@ -194,7 +194,7 @@ https://github.com/rahul979854/Channels/raw/main/AndFlixHd.m3u8
 https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/zee%20cinema.jpeg",Zee Cinema HD
-http://103.89.248.26:8082/Zee-Cinema-HD/index.fmp4.m3u8?token=68aae5cb3979a6495e9fabd824781e0d7961cc3a-20cd934446b6ca8d3bc727ee1662c3b8-1746641748-1746630948
+http://103.89.248.22:8082/Zee-Cinema-HD/index.fmp4.m3u8?token=7c20b7a3207a344709de2f11875edd7ceac5780b-228e9b21045a5f938d4908cec129d6f7-1747056518-1747045718
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/b4umovies.jpg",B4U MOVIES
 https://tv.bdixtv24.com/toffee/live.php?id=cd113761e022&e=.m3u8
