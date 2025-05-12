@@ -1,18 +1,31 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/gbs1FnVC/DD-BANGLA.jpg",DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/273cjvvy/ABP-Ananda.jpg",Abp Ananda
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master_1280.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/3ywgnqqw/Republic-Bangla.jpg",R BANGLA
 https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/dcd14105-09e8-47de-9a98-84658326a834/3.m3u8
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/0p9BZfvH/R-Plus-News.jpg",R Plus
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/gbvYCgmj/TV9-Bangla.jpg",TV9 BANGLA
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
+#https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/Q3ffxfXS/Zee-24.jpg",Zee 24
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/TBTBHxDX/High-News.jpg",High News
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/pBSbx04V/image.jpg",Aajtak Hd live
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/KzNhHBdj/BBC-Asia.jpg",BBC News Asia
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/DPTm2yMT/ekattortv.jpg",Ekattor TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
@@ -144,6 +157,11 @@ https://github.com/rahul979854/Channels/raw/main/AnimalsPlanetHd.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="http://iptvidn.com/assets/images/discoveryhd.jpg",DISCOVERY HD
 http://kst.moonplex.net:8080/CH9/index.m3u8
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/r2XP0bH3/travelxp.jpg",Travel XP
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/d01D83Yz/STAR-Movies.jpg",Star Movies Hd
 https://github.com/rahul979854/Channels/raw/main/StarMoviesHd.m3u8
@@ -171,6 +189,8 @@ https://github.com/rahul979854/Channels/raw/main/AndPrideHd.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/5hyWQmCJ/Flix-HD.jpg",& Flix Hd
 https://github.com/rahul979854/Channels/raw/main/AndFlixHd.m3u8
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/FqJb9CFg/Sooriyan-TV-Tamil.jpg",Sooriyan TV
+https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/zee%20cinema.jpeg",Zee Cinema HD
 http://103.89.248.26:8082/Zee-Cinema-HD/index.fmp4.m3u8?token=68aae5cb3979a6495e9fabd824781e0d7961cc3a-20cd934446b6ca8d3bc727ee1662c3b8-1746641748-1746630948
@@ -184,20 +204,31 @@ http://kst.moonplex.net:8080/CH1/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonypix.jpg",SONY PIX
 http://kst.moonplex.net:8080/CH8/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/9xm.jpg",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a731c680-6a62-4174-bc98-186fe654724a/0.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/9xjalwa.jpg",9X JALWA
-http://103.89.248.26:8082/9X-JALWA/index.fmp4.m3u8?token=52527b5b30da8d2feaf6a0e19c9d7c43ab9e8c3d-4b75581b2ccd991f92c8ff82a2bbec29-1746542582-1746531782
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg",Yrf Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/tTT7c8cR/Mastiii.jpg",Mastii
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/rKPT2yY9/ShowBox.jpg",Show Box
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/Z4ydZ9T/E24.jpg",E24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/qYh5WmYT/Balle-Balle-TV.jpg",Balleballe TV HD
+https://mcncdndigital.com/balleballetv/index.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/9xjalwa.jpg",9X JALWA
+http://103.89.248.26:8082/9X-JALWA/index.fmp4.m3u8?token=52527b5b30da8d2feaf6a0e19c9d7c43ab9e8c3d-4b75581b2ccd991f92c8ff82a2bbec29-1746542582-1746531782
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/FL6brWjT/Maiboli-TV-copy.jpg",Maiboli
 https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/eaf08788-9c1f-4fdd-b37d-aaf4b4726940/3.m3u8
-
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg",Yrf Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/b4umusic.jpg",B4U MUSIC
 http://103.89.248.22:8082/B4U-MUSIC/index.fmp4.m3u8?token=b16480724b2537f58c6cb6decab196abe662e3e5-66e2ddc61b449434654467719bd509be-1746542611-1746531811
