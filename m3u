@@ -158,7 +158,7 @@ http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 https://tv.bdixtv24.com/toffee/live.php?id=a6497ebbf14f&e=.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/cKt4Dqnt/BBC-EAR.jpg",National Geographic
-http://gotit14.xyz:80/live/2F635BX/ZJX02CY/34729.ts
+https://raw.githubusercontent.com/tkmani91/ip/refs/heads/main/NationalGeographic.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="http://iptvidn.com/assets/images/animalplanetnew.jpg",ANIMAL PLANET
 #https://tv.bdixtv24.com/toffee/live.php?id=52d1df2fdb80&e=.m3u8
