@@ -84,9 +84,8 @@ http://38.96.178.201/live/STARJALSHA/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglahd.jpg",ZEE BANGLA
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
-https://tv.bdixtv24.com/toffee/live.php?id=77e72f2ba472&e=.m3u8
-https://github.com/rahul979854/Channels/raw/main/ZeeBanglaHd.m3u8
-http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+#https://github.com/rahul979854/Channels/raw/main/ZeeBanglaHd.m3u8
+#http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.ibb.co.com/cc7zDYXc/Colors-Bangla.jpg",Colors Bangla
 http://38.96.178.201/live/ColorsBangla/index.m3u8
@@ -220,7 +219,7 @@ https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 https://tv.bdixtv24.com/toffee/live.php?id=cd113761e022&e=.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonymaxhd.jpg",SONY MAX
-https://tv.bdixtv24.com/toffee/live.php?id=6a65854166f1&e=.m3u8
+http://gotit14.xyz:80/live/2F635BX/ZJX02CY/72147.ts
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonypix.jpg",SONY PIX
 https://tv.bdixtv24.com/toffee/live.php?id=ea02096b0fbc&e=.m3u8
