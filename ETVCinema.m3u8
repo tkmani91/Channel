@@ -1,6 +1,0 @@
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=5fb661859e145a829c55ce0aefa151f8:19f2f9f4ac7ff282d1a23765709d4c3d
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
-#EXTHTTP:{"cookie":"__hdnea__=st=1748780548~exp=1748866948~acl=/*~hmac=8b4f726a15cb3ec251268f9c1ec9bcaf20f83835abcd344526ef6b9e05665f9c"}
-#EXTINF:-1 tvg-id="252" tvg-name="ETV Cinema" tvg-type="Movies" group-title="Movies" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema.png",ETV Cinema
-https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Cinema_BTS/output/index.mpd
