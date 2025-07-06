@@ -3,12 +3,4 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:1.000,
-http://starshare.org/live/kumar11/kumar11/9392.ts
-#EXTINF:1.000,
-http://starshare.org/live/kumar11/kumar11/9392.ts
-#EXTINF:1.000,
-http://starshare.org/live/kumar11/kumar11/9392.ts
-#EXTINF:1.000,
-http://starshare.org/live/kumar11/kumar11/9392.ts
-#EXTINF:1.000,
-http://starshare.org/live/kumar11/kumar11/9392.ts
+http://38.96.178.201/live/Discovery/index.m3u8
